@@ -6,14 +6,14 @@ AI, agents, and deployment.
 
 ## Progress
 
-**22 of 44 topics available**
+**23 of 44 topics available**
 
 | Stage | Topics | Status |
 | --- | ---: | --- |
 | Foundations | 5 | Complete |
 | Classical ML | 7 | Complete |
 | Deep Learning | 8 | Complete |
-| Computer Vision | 3 | In progress |
+| Computer Vision | 3 | Complete |
 | NLP & Generative AI | 6 | Planned |
 | RAG & Vector Search | 5 | Planned |
 | AI Agents | 3 | Planned |
@@ -54,7 +54,7 @@ AI, agents, and deployment.
 
 21. [Computer Vision](21_Computer_Vision.pdf)
 22. [Image Classification](22_Image_Classification.pdf)
-23. Object Detection — planned
+23. [Object Detection](23_Object_Detection.pdf)
 
 ## Upcoming Topics
 
@@ -75,7 +75,7 @@ The complete source roadmap is available in [List.txt](List.txt).
 ├── 01_NumPy.pdf
 ├── 02_Pandas.pdf
 ├── ...
-├── 22_Image_Classification.pdf
+├── 23_Object_Detection.pdf
 ├── List.txt
 └── README.md
 ```
