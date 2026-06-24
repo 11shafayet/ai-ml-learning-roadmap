@@ -1,0 +1,59 @@
+Stage 1 — Foundations
+
+1. NumPy
+2. Pandas
+3. Matplotlib / Seaborn
+4. SQL / PostgreSQL
+5. EDA (Exploratory Data Analysis)
+
+Stage 2 — Classical ML
+6. Scikit-learn
+7. Linear Regression
+8. Logistic Regression
+9. Accuracy, Precision, Recall, F1-score, Support
+10. XGBoost
+11. LightGBM
+12. DBSCAN Clustering
+
+Stage 3 — Deep Learning
+13. Neural Networks (core concepts)
+14. PyTorch
+15. TensorFlow
+16. CNN
+17. LSTM
+18. GRU
+19. Attention-based models
+20. Transformers
+
+Stage 4 — Computer Vision
+21. OpenCV
+22. Image Classification
+23. Object Detection
+Stage 5 — NLP & Generative AI
+24. TF-IDF
+25. Hugging Face (Transformers)
+26. Fine Tuning
+27. Sentence Transformers
+28. LLMs
+29. Prompt Engineering
+
+Stage 6 — RAG & Vector Search
+30. FAISS / Vector Search
+31. Vector DBs (pick one: Chroma or Pinecone)
+32. RAG
+33. LlamaIndex
+34. LangChain
+
+Stage 7 — AI Agents
+35. Agentic AI concepts
+36. PydanticAI
+37. CrewAI
+
+Stage 8 — Deployment
+38. Streamlit
+39. Gradio
+40. FastAPI
+41. Docker
+42. Kaggle (runs parallel throughout)
+43. OpenAI API
+44. HuggingFace Spaces / Render (hosting)
