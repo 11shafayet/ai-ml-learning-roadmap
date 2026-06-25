@@ -6,15 +6,15 @@ AI, agents, and deployment.
 
 ## Progress
 
-**23 of 44 topics available**
+**30 PDF guides available**
 
-| Stage | Topics | Status |
+| Stage | PDFs | Status |
 | --- | ---: | --- |
 | Foundations | 5 | Complete |
 | Classical ML | 7 | Complete |
 | Deep Learning | 8 | Complete |
-| Computer Vision | 3 | Complete |
-| NLP & Generative AI | 6 | Planned |
+| Computer Vision | 4 | Complete |
+| NLP & Generative AI | 6 | Complete |
 | RAG & Vector Search | 5 | Planned |
 | AI Agents | 3 | Planned |
 | Deployment | 7 | Planned |
@@ -55,11 +55,19 @@ AI, agents, and deployment.
 21. [Computer Vision](21_Computer_Vision.pdf)
 22. [Image Classification](22_Image_Classification.pdf)
 23. [Object Detection](23_Object_Detection.pdf)
+24. [OpenCV](24_OpenCV.pdf)
+
+### Stage 5 — NLP & Generative AI
+
+25. [TF-IDF](25_TF_IDF.pdf)
+26. [Hugging Face Transformers](26_Hugging_Face.pdf)
+27. [Fine-Tuning](27_Fine_Tuning.pdf)
+28. [Sentence Transformers](28_Sentence_Transformers.pdf)
+29. [Large Language Models](29_LLMs.pdf)
+30. [Prompt Engineering](30_Prompt_Engineering.pdf)
 
 ## Upcoming Topics
 
-- **NLP & Generative AI:** TF-IDF, Hugging Face Transformers, fine-tuning,
-  sentence transformers, LLMs, and prompt engineering
 - **RAG & Vector Search:** FAISS, vector databases, RAG, LlamaIndex, and
   LangChain
 - **AI Agents:** agentic AI concepts, PydanticAI, and CrewAI
@@ -75,7 +83,7 @@ The complete source roadmap is available in [List.txt](List.txt).
 ├── 01_NumPy.pdf
 ├── 02_Pandas.pdf
 ├── ...
-├── 23_Object_Detection.pdf
+├── 30_Prompt_Engineering.pdf
 ├── List.txt
 └── README.md
 ```
