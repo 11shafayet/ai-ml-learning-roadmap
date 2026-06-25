@@ -6,7 +6,7 @@ AI, agents, and deployment.
 
 ## Progress
 
-**30 PDF guides available**
+**35 PDF guides available**
 
 | Stage | PDFs | Status |
 | --- | ---: | --- |
@@ -15,7 +15,7 @@ AI, agents, and deployment.
 | Deep Learning | 8 | Complete |
 | Computer Vision | 4 | Complete |
 | NLP & Generative AI | 6 | Complete |
-| RAG & Vector Search | 5 | Planned |
+| RAG & Vector Search | 5 | Complete |
 | AI Agents | 3 | Planned |
 | Deployment | 7 | Planned |
 
@@ -66,10 +66,16 @@ AI, agents, and deployment.
 29. [Large Language Models](29_LLMs.pdf)
 30. [Prompt Engineering](30_Prompt_Engineering.pdf)
 
+### Stage 6 — RAG & Vector Search
+
+31. [FAISS / Vector Search](31_FAISS_Vector_Search.pdf)
+32. [Vector Databases](32_Vector_Databases.pdf)
+33. [Retrieval-Augmented Generation](33_RAG.pdf)
+34. [LlamaIndex](34_LlamaIndex.pdf)
+35. [LangChain](35_LangChain.pdf)
+
 ## Upcoming Topics
 
-- **RAG & Vector Search:** FAISS, vector databases, RAG, LlamaIndex, and
-  LangChain
 - **AI Agents:** agentic AI concepts, PydanticAI, and CrewAI
 - **Deployment:** Streamlit, Gradio, FastAPI, Docker, Kaggle, OpenAI API, and
   application hosting
@@ -83,7 +89,7 @@ The complete source roadmap is available in [List.txt](List.txt).
 ├── 01_NumPy.pdf
 ├── 02_Pandas.pdf
 ├── ...
-├── 30_Prompt_Engineering.pdf
+├── 35_LangChain.pdf
 ├── List.txt
 └── README.md
 ```
