@@ -6,7 +6,7 @@ AI, agents, and deployment.
 
 ## Progress
 
-**42 PDF guides available**
+**44 PDF guides available**
 
 | Stage | Topics | Status |
 | --- | ---: | --- |
@@ -17,7 +17,7 @@ AI, agents, and deployment.
 | NLP & Generative AI | 6 | Complete |
 | RAG & Vector Search | 5 | Complete |
 | AI Agents | 3 | Complete |
-| Deployment | 7 | In progress (4 available) |
+| Deployment | 7 | In progress (6 available) |
 
 ## Available PDFs
 
@@ -86,10 +86,12 @@ AI, agents, and deployment.
 40. [Gradio](40_Gradio.pdf)
 41. [FastAPI](41_FastAPI.pdf)
 42. [Docker](42_Docker.pdf)
+43. [Kaggle](43_Kaggle.pdf)
+44. [Hosting Your AI](44_Hosting_Your_AI.pdf)
 
 ## Upcoming Topics
 
-- **Deployment:** Kaggle, OpenAI API, and application hosting
+- **Deployment:** OpenAI API
 
 The complete source roadmap is available in [List.txt](List.txt).
 
@@ -100,7 +102,7 @@ The complete source roadmap is available in [List.txt](List.txt).
 ├── 01_NumPy.pdf
 ├── 02_Pandas.pdf
 ├── ...
-├── 42_Docker.pdf
+├── 44_Hosting_Your_AI.pdf
 ├── List.txt
 └── README.md
 ```
