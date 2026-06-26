@@ -17,7 +17,7 @@ AI, agents, and deployment.
 | NLP & Generative AI | 6 | Complete |
 | RAG & Vector Search | 5 | Complete |
 | AI Agents | 3 | Complete |
-| Deployment | 7 | In progress (6 available) |
+| Deployment | 6 | Complete |
 
 ## Available PDFs
 
@@ -88,10 +88,6 @@ AI, agents, and deployment.
 42. [Docker](42_Docker.pdf)
 43. [Kaggle](43_Kaggle.pdf)
 44. [Hosting Your AI](44_Hosting_Your_AI.pdf)
-
-## Upcoming Topics
-
-- **Deployment:** OpenAI API
 
 The complete source roadmap is available in [List.txt](List.txt).
 

@@ -4,56 +4,64 @@ Stage 1 — Foundations
 2. Pandas
 3. Matplotlib / Seaborn
 4. SQL / PostgreSQL
-5. EDA (Exploratory Data Analysis)
+5. Exploratory Data Analysis
 
-Stage 2 — Classical ML
+Stage 2 — Classical Machine Learning
+
 6. Scikit-learn
 7. Linear Regression
 8. Logistic Regression
-9. Accuracy, Precision, Recall, F1-score, Support
+9. Evaluation Metrics
 10. XGBoost
 11. LightGBM
 12. DBSCAN Clustering
 
 Stage 3 — Deep Learning
-13. Neural Networks (core concepts)
+
+13. Neural Networks
 14. PyTorch
 15. TensorFlow
-16. CNN
-17. LSTM
-18. GRU
-19. Attention-based models
+16. Convolutional Neural Networks
+17. Long Short-Term Memory
+18. Gated Recurrent Units
+19. Attention
 20. Transformers
 
 Stage 4 — Computer Vision
-21. OpenCV
+
+21. Computer Vision
 22. Image Classification
 23. Object Detection
+24. OpenCV
+
 Stage 5 — NLP & Generative AI
-24. TF-IDF
-25. Hugging Face (Transformers)
-26. Fine Tuning
-27. Sentence Transformers
-28. LLMs
-29. Prompt Engineering
+
+25. TF-IDF
+26. Hugging Face Transformers
+27. Fine-Tuning
+28. Sentence Transformers
+29. Large Language Models
+30. Prompt Engineering
 
 Stage 6 — RAG & Vector Search
-30. FAISS / Vector Search
-31. Vector DBs (pick one: Chroma or Pinecone)
-32. RAG
-33. LlamaIndex
-34. LangChain
+
+31. FAISS / Vector Search
+32. Vector Databases
+33. Retrieval-Augmented Generation
+34. LlamaIndex
+35. LangChain
 
 Stage 7 — AI Agents
-35. Agentic AI concepts
-36. PydanticAI
-37. CrewAI
+
+36. Agentic AI Concepts
+37. PydanticAI
+38. CrewAI
 
 Stage 8 — Deployment
-38. Streamlit
-39. Gradio
-40. FastAPI
-41. Docker
-42. Kaggle (runs parallel throughout)
-43. OpenAI API
-44. HuggingFace Spaces / Render (hosting)
+
+39. Streamlit
+40. Gradio
+41. FastAPI
+42. Docker
+43. Kaggle
+44. Hosting Your AI
