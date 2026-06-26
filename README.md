@@ -6,9 +6,9 @@ AI, agents, and deployment.
 
 ## Progress
 
-**35 PDF guides available**
+**40 PDF guides available**
 
-| Stage | PDFs | Status |
+| Stage | Topics | Status |
 | --- | ---: | --- |
 | Foundations | 5 | Complete |
 | Classical ML | 7 | Complete |
@@ -16,8 +16,8 @@ AI, agents, and deployment.
 | Computer Vision | 4 | Complete |
 | NLP & Generative AI | 6 | Complete |
 | RAG & Vector Search | 5 | Complete |
-| AI Agents | 3 | Planned |
-| Deployment | 7 | Planned |
+| AI Agents | 3 | Complete |
+| Deployment | 7 | In progress (2 available) |
 
 ## Available PDFs
 
@@ -74,11 +74,20 @@ AI, agents, and deployment.
 34. [LlamaIndex](34_LlamaIndex.pdf)
 35. [LangChain](35_LangChain.pdf)
 
+### Stage 7 — AI Agents
+
+36. [Agentic AI Concepts](36_Agentic_AI_Concepts.pdf)
+37. [PydanticAI](37_PydanticAI.pdf)
+38. [CrewAI](38_CrewAI.pdf)
+
+### Stage 8 — Deployment
+
+39. [Streamlit](39_Streamlit.pdf)
+40. [Gradio](40_Gradio.pdf)
+
 ## Upcoming Topics
 
-- **AI Agents:** agentic AI concepts, PydanticAI, and CrewAI
-- **Deployment:** Streamlit, Gradio, FastAPI, Docker, Kaggle, OpenAI API, and
-  application hosting
+- **Deployment:** FastAPI, Docker, Kaggle, OpenAI API, and application hosting
 
 The complete source roadmap is available in [List.txt](List.txt).
 
@@ -89,7 +98,7 @@ The complete source roadmap is available in [List.txt](List.txt).
 ├── 01_NumPy.pdf
 ├── 02_Pandas.pdf
 ├── ...
-├── 35_LangChain.pdf
+├── 40_Gradio.pdf
 ├── List.txt
 └── README.md
 ```
