@@ -65,3 +65,9 @@ Stage 8 — Deployment
 42. Docker
 43. Kaggle
 44. Hosting Your AI
+
+Stage 9 — Developer Tools & Advanced AI Engineering
+
+45. LangGraph
+46. Model Context Protocol
+47. Git and GitHub

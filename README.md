@@ -6,7 +6,7 @@ AI, agents, and deployment.
 
 ## Progress
 
-**44 PDF guides available**
+**47 PDF guides available**
 
 | Stage | Topics | Status |
 | --- | ---: | --- |
@@ -18,6 +18,7 @@ AI, agents, and deployment.
 | RAG & Vector Search | 5 | Complete |
 | AI Agents | 3 | Complete |
 | Deployment | 6 | Complete |
+| Developer Tools & Advanced AI Engineering | 3 | Complete |
 
 ## Available PDFs
 
@@ -89,6 +90,12 @@ AI, agents, and deployment.
 43. [Kaggle](43_Kaggle.pdf)
 44. [Hosting Your AI](44_Hosting_Your_AI.pdf)
 
+### Stage 9 — Developer Tools & Advanced AI Engineering
+
+45. [LangGraph](45_LangGraph.pdf)
+46. [Model Context Protocol](46_MCP.pdf)
+47. [Git and GitHub](47_Git_and_GitHub.pdf)
+
 The complete source roadmap is available in [List.txt](List.txt).
 
 ## Repository Structure
@@ -98,7 +105,7 @@ The complete source roadmap is available in [List.txt](List.txt).
 ├── 01_NumPy.pdf
 ├── 02_Pandas.pdf
 ├── ...
-├── 44_Hosting_Your_AI.pdf
+├── 47_Git_and_GitHub.pdf
 ├── List.txt
 └── README.md
 ```
